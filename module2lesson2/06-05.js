@@ -117,3 +117,6 @@ console.log(red.reduce((a,b) => {
  const arrShift = arr.shift()
  const arrUnshift = arr.unshift(100)
 */
+
+let strRep = 'first second third'
+console.log(strRep.replaceAll (' '))
